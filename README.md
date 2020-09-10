@@ -25,8 +25,8 @@
 ## Endpoints
 
 - For creating a task
-- POST [https://shaw-todo-app.herokuapp.com/task]
+  - POST [https://shaw-todo-app.herokuapp.com/task](https://shaw-todo-app.herokuapp.com/task)
 
 
 - For getting all the tasks 
-- GET [https://shaw-todo-app.herokuapp.com/task]
+  - GET [https://shaw-todo-app.herokuapp.com/task]([https://shaw-todo-app.herokuapp.com/task)
