@@ -17,7 +17,7 @@ mongoose.connect(process.env.MONGODB_URL, {useNewUrlParser: true, useUnifiedTopo
 
 app.get("/",(req,res)=>{
     res.send({
-        invalid:"change url to /task"
+        invalid:"Add /task at last of url for get and post"
     })
 })
 
