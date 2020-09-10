@@ -26,7 +26,16 @@
 
 - For creating a task
   - POST [https://shaw-todo-app.herokuapp.com/task](https://shaw-todo-app.herokuapp.com/task)
+  
+  
+  ```
+  Schema for task api:
+  "name":String,
+  "discription":String,
+  "creator":String,
+  "duration":Number   //Duration takes time in minutes and add it to expire time
+  ```
 
 
 - For getting all the tasks 
-  - GET [https://shaw-todo-app.herokuapp.com/task]([https://shaw-todo-app.herokuapp.com/task)
+  - GET [https://shaw-todo-app.herokuapp.com/task](https://shaw-todo-app.herokuapp.com/task)
